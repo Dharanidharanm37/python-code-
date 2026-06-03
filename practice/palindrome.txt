@@ -1,0 +1,3 @@
+a=madam
+rev=a[::-1]
+if rev==a:
